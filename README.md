@@ -1,6 +1,6 @@
 # About this Repository 📌
 
-This repository contains the mini project I did as a part of the coursework for the module [Python Programming for Artificial Intelligence](https://qmplus.qmul.ac.uk/course/view.php?id=29228). The assignment used the MLEnd Spoken Numerals Dataset to extract features from audio recordings of a single speaker, analyse them, and build a function that finds similar-sounding audio files.
+This repository contains the mini project I did as a part of the coursework for the module Python Programming for Artificial Intelligence. The assignment used the MLEnd Spoken Numerals Dataset to extract features from audio recordings of a single speaker, analyse them, and build a function that finds similar-sounding audio files.
 
 
 # Key Takeaways 🔍
